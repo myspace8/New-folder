@@ -15,6 +15,7 @@ export default function Home() {
         <a href="#!" rel="noopener noreferrer">
           Made with ❤️ by JO
         </a>
+        <p className='text-sm'>Please Note, this site is for experimental use only.</p>
       </footer>
     </div>
   );
